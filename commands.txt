@@ -1,0 +1,6 @@
+This is file to check the git's functionality
+
+STEPS:
+1) git init the repository in which the file is present. (Untracked)
+2) git add (Untracked to Staged)
+3) git commit (Staged to tracked)
