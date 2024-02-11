@@ -6,4 +6,5 @@ STEPS:
 3) git commit (Staged to tracked
 4) git status
 5) git status
+6) git log
 
